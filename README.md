@@ -1,9 +1,10 @@
-### Hi there 🤪
+### Hi there <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 I'm ⚡⚡Stew⚡⚡,an Android developer🤖 who enjoys researching cutting-edge technology🪐,cooking🍔,and nature🏝.
 - 😭 I’m currently in the process of entrepreneurship
 - 🧐 I’m currently learning ChatGPT & MidJourney
 
 ![](https://github-readme-stats.vercel.app/api?username=stewforani)
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### Website🌏
 juejin：https://juejin.cn/user/1627723012245054</br>
