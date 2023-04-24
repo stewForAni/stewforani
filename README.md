@@ -18,29 +18,13 @@ mail: stewforani@gmail.com
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 48.1 kB Used in GitHub's Storage 
- > 
-> 🏆 68 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-🌆 Daytime                291 commits         █████████░░░░░░░░░░░░░░░░   36.56 % 
-🌃 Evening                389 commits         ████████████░░░░░░░░░░░░░   48.87 % 
-🌙 Night                  31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+🌞 Morning                85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+🌆 Daytime                293 commits         █████████░░░░░░░░░░░░░░░░   36.72 % 
+🌃 Evening                389 commits         ████████████░░░░░░░░░░░░░   48.75 % 
+🌙 Night                  31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 
 
@@ -75,5 +59,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/04/2023 09:30:52 UTC
+ Last Updated on 24/04/2023 09:43:27 UTC
 <!--END_SECTION:waka-->
