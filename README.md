@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+### Hi there 👋     <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 I'm ⚡⚡Stew⚡⚡,an Android developer🤖 who enjoys researching cutting-edge technology🪐,cooking🍔,and nature🏝.
 - 😭 I’m currently in the process of entrepreneurship
 - 🧐 I’m currently learning ChatGPT & MidJourney
