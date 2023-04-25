@@ -5,7 +5,7 @@ I'm ⚡⚡Stew⚡⚡,an Android developer🤖 who enjoys researching cutting-edg
 - 🧐 I’m currently learning ChatGPT & MidJourney
 
 ![](https://github-readme-stats.vercel.app/api?username=stewforani)
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
 
 ### Website🌏
 juejin：https://juejin.cn/user/1627723012245054</br>
