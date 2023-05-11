@@ -1,4 +1,4 @@
-### Hi there
+### Hi there 👋👋👋
 I'm ⚡⚡Stew⚡⚡,an Android developer🤖 who enjoys researching cutting-edge technology🪐,cooking🍔,and nature🏝.
 - 😭 I’m currently in the process of entrepreneurship
 - 🧐 I’m currently learning ChatGPT & MidJourney
