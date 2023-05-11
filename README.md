@@ -1,3 +1,4 @@
+![banner](https://github.com/stewForAni/stewForAni.github.io/blob/main/css/images/banner.png?raw=true)
 ### Hi there 👋👋👋
 I'm ⚡⚡Stew⚡⚡,an Android developer🤖 who enjoys researching cutting-edge technology🪐,cooking🍔,and nature🏝.
 - 😭 I’m currently in the process of entrepreneurship
