@@ -5,7 +5,7 @@ I'm ⚡⚡Stew⚡⚡,an Android developer🤖 who enjoys researching cutting-edg
 - 🧐 I’m currently learning ChatGPT & MidJourney
 
 ![](https://github-readme-stats.vercel.app/api?username=stewforani&theme=shades-of-purple&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stewforani&layout=compact)](https://github.com/stewForAni/Lamp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stewforani&layout=Compact&hide=javascript,html,CSS,AIDL)](https://github.com/stewForAni/Lamp)
 
 ### Projects📚
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stewforani&repo=CircleProgressMenu&theme=shades-of-purple)](https://github.com/stewForAni/CircleProgressMenu)
