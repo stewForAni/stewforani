@@ -2,7 +2,7 @@
 - 😭 I’m currently in the process of entrepreneurship
 - 🧐 I’m currently learning ChatGPT & MidJourney
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=stewforani&theme=shades-of-purple&rank_icon=github)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=stewforani&theme=cobalt&rank_icon=github)
 ![](https://github-readme-stats-mu-pearl-86.vercel.app/api?username=stewforani&theme=cobalt&rank_icon=github)
 
 
