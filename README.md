@@ -4,7 +4,7 @@ I'm ⚡⚡Stew⚡⚡,an Android developer🤖.
 - 😭 I’m currently in the process of entrepreneurship
 - 🧐 I’m currently learning ChatGPT & MidJourney
 
-
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=stewforani&theme=shades-of-purple&rank_icon=github)
 
 ### Projects📚
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=stewforani&repo=CircleProgressMenu&theme=shades-of-purple)](https://github.com/stewForAni/CircleProgressMenu)
