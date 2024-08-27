@@ -3,6 +3,9 @@
 - 🧐 I’m currently learning ChatGPT & MidJourney
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=stewforani&theme=shades-of-purple&rank_icon=github)
+![](https://github-readme-stats-red-theta.vercel.app/api?username=stewforani&theme=shades-of-purple&rank_icon=github)
+
+
 
 
 ### Projects📚
